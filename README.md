@@ -6,7 +6,7 @@ This project uses a Power BI dashboard to analyze sales from a church fundraiser
 
 **Total profit in the dataset: $47,067**
 
-![Dashboard](dashboard.png)
+![Dashboard](Screenshot%202026-10-16%20011922.png)
 
 ## Tools Used
 
